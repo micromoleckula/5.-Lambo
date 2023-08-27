@@ -1,0 +1,31 @@
+.header {
+    padding-top: 25px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: var(--gradient-light, linear-gradient(180deg, #D8D4CA 0%, rgba(217, 217, 217, 0.00) 100%));
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-list {
+    display: flex;
+    gap: 0 40px;
+    padding-top: 25px;
+}
+
+.menu-list {
+    padding-left: 25px;
+}
+
+.menu-right {
+    padding-right: 80px;
+}
+
+.menu-link {
+    color: #363636;
+}
+

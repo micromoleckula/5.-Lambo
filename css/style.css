@@ -1,11 +1,12 @@
-@import url(./styles/header.css);
+@import url(./header.css);
+@import url(./promo.css);
 
 html {
     box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', 'sans-serif';
     font-size: 14px;
     line-height: 1.2;
     font-weight: 400;
