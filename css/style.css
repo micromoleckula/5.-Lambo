@@ -1,6 +1,11 @@
 @import url(./header.css);
 @import url(./promo.css);
 
+@font-face {
+    font-family: 'Impact', sans-serif;
+    src: url(../fonts/impact.woff2);
+}
+
 html {
     box-sizing: border-box;
 }
