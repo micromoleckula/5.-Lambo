@@ -1,5 +1,6 @@
 @import url(./header.css);
 @import url(./promo.css);
+@import url(./info.css);
 
 @font-face {
     font-family: 'Impact', sans-serif;
@@ -31,6 +32,12 @@ a {
 }
 
 .container {
+    margin: 0 auto;
+    max-width: 920px;
+    padding: 0 10px;
+}
+
+.big-container {
     margin: 0 auto;
     max-width: 1220px;
     padding: 0 10px;
