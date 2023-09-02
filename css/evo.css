@@ -114,6 +114,7 @@
 
 .evo-white__video {
     margin-top: 100px;
+    margin-bottom: 100px;
     background-image: url(../images/evo-video.png);
     background-repeat: no-repeat;
     background-position: center;
