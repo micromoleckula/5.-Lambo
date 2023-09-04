@@ -50,3 +50,33 @@
 .swiper-button-left {
     transform: translateX(-50px);
 }
+
+.blog__quote {
+    display: flex;
+    justify-content: space-between;
+    gap: 0 20px;
+}
+
+.blog__quote-box {
+    flex-basis: 434px;
+}
+
+.blockquote {
+    margin-bottom: 30px;
+}
+
+.blockquote__name {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.blockquote__name span{
+    display: block;
+    color: #9f6b08;
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.blockquote__text {
+    font-style: italic;
+}

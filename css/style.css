@@ -4,6 +4,7 @@
 @import url(./track.css);
 @import url(./evo.css);
 @import url(./blog.css);
+@import url(./footer.css);
 
 @font-face {
     font-family: 'Impact', sans-serif;
@@ -32,6 +33,10 @@ body {
 a {
     color: inherit;
     text-decoration: none;
+}
+
+li {
+    list-style: none;
 }
 
 .container {
