@@ -1,0 +1,47 @@
+@media screen and (max-width: 1100px) {
+
+    /* header start */
+
+    .promo {
+        background-position: left center;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .menu-mobile {
+        display: flex;
+        gap: 0 20px;
+    }
+
+    .logo-img {
+        width: 50px;
+    }
+
+    .nav {
+        align-items: center;
+    }
+
+    .title {
+        font-size: 64px;
+    }
+
+    .subtitle {
+        font-size: 42px;
+    }
+
+    .subtitle span {
+        font-size: 32px;
+    }
+
+    /* header end */
+}
+
+@media screen and (max-width: 820px) {
+    
+}
+
+@media screen and (max-width: 1200px) {
+    
+}

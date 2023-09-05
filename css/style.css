@@ -5,6 +5,7 @@
 @import url(./evo.css);
 @import url(./blog.css);
 @import url(./footer.css);
+@import url(./adapt-display.css);
 
 @font-face {
     font-family: 'Impact', sans-serif;

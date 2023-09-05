@@ -1,16 +1,4 @@
-const swiper = new Swiper('.swiper', {
-    loop: true,
-    slidesPerView: 2,
-    navigation: {
-      nextEl: '.swiper-button-right',
-      prevEl: '.swiper-button-left',
-    },
-  
-  });
-
-  // swiper
-
-  let map;
+let map;
 
 async function initMap() {
   const { Map } = await google.maps.importLibrary("maps");
@@ -147,4 +135,3 @@ async function initMap() {
 }
 
 initMap();
-
