@@ -14,7 +14,7 @@
 
 .evo-black__inner::before {
     content: "";
-    background-image: url(../images/dec-1.svg);
+    background-image: url(../images/dec-1.png);
     width: 185px;
     height: 213px;
     position: absolute;
@@ -51,7 +51,6 @@
 .evo-black__text {
     font-size: 14px;
     margin-bottom: 30px;
-
 }
 
 .evo-black__img {
